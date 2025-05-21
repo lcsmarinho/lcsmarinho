@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey, I’m Lucas Marinho</h1>
-<h3 align="center">Full‑Stack Developer • Java | Flutter | React</h3>
+<h1 align="center">👋 E aí! Eu sou o Lucas Marinho</h1>
+<h3 align="center">Dev full stack que curte Java, Flutter e React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=450&lines=Crafting+elegant+UIs;Building+RPG+tools;Loving+jazz+solos" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=450&lines=Codando+interfaces+legais;Criando+ferramentas+pra+RPG;Curtindo+um+bom+solo+de+jazz" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -16,25 +16,25 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-> Full-stack dev from Aracaju‑SE who turns code into experience—<br>
-> from RPG tools to real-world applications in Java, Flutter & React.
+> Dev de Aracaju‑SE que adora transformar ideia em código—<br>
+> seja um app de RPG, um site médico ou uma calculadora estilosa.
 
 ---
 
-### ✨ Projects I’m proud of
+### ✨ Projetos que me dão orgulho
 
-| Project | Stack | What it is |
-|---------|-------|------------|
-| [**Noir Gallery**](https://github.com/lcsmarinho/noir-gallery) | React + TS | A front‑end “art gallery” of CSS/JS effects with search & pagination. |
-| [**Ecos do Mestre**](https://github.com/lcsmarinho/ecos_do_mestre) | Flutter | Lovecraft‑flavored mobile/web app for RPG masters. |
-| [**Fichas Organizer**](https://github.com/lcsmarinho/fichas_organizer_generator_app) | Python | CLI/GUI generator that builds D&D sheets from JSON. |
-| [**Site‑med**](https://github.com/lcsmarinho/Site-med) | HTML/CSS/JS | Responsive site for a nephrologist with calculator & FAQ. |
-| [**Calculadora Moderna**](https://github.com/lcsmarinho/Calculadora-Moderna) | Python (Tkinter) | Modern desktop calculator with theme toggle. |
-| [**Dashboard COVID‑19 (Dash)**](https://github.com/lcsmarinho/Dashboard-COVID-19-com-Dash) | Python (Plotly Dash) | Interactive data‑viz dashboard for Brazilian cases. |
+| Projeto | Stack | O que é |
+|---------|-------|---------|
+| [**Noir Gallery**](https://github.com/lcsmarinho/noir-gallery) | React + TS | Uma galeria de efeitos visuais com busca e paginação. |
+| [**Ecos do Mestre**](https://github.com/lcsmarinho/ecos_do_mestre) | Flutter | App estilo Lovecraft pra mestres de RPG. |
+| [**Fichas Organizer**](https://github.com/lcsmarinho/fichas_organizer_generator_app) | Python | Gera fichas de D&D a partir de JSON (com GUI também). |
+| [**Site‑med**](https://github.com/lcsmarinho/Site-med) | HTML/CSS/JS | Site responsivo pra um nefrologista com calculadora. |
+| [**Calculadora Moderna**](https://github.com/lcsmarinho/Calculadora-Moderna) | Python (Tkinter) | Calculadora desktop com tema escuro e claro. |
+| [**Dashboard COVID‑19 (Dash)**](https://github.com/lcsmarinho/Dashboard-COVID-19-com-Dash) | Python (Dash) | Dashboard interativo com dados da pandemia no Brasil. |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lcsmarinho&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -42,7 +42,7 @@
 </p>
 
 <details open>
-<summary>🏆 Trophies</summary>
+<summary>🏆 Troféuzinhos</summary>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lcsmarinho&theme=onedark&no-frame=true&column=6&rank=S,AAA,AA,A" />
 </p>
@@ -50,27 +50,27 @@
 
 ---
 
-### 🛠️ Toolbox
+### 🧰 Ferramentas que uso no dia a dia
 VS Code · Git & GitHub Actions · Figma · Firebase · TailwindCSS · Jest · Storybook
 
 ---
 
 <details>
-<summary>📚 Latest blog posts <em>(auto‑updated)</em></summary>
+<summary>📚 Últimos posts do blog <em>(auto‑atualizado)</em></summary>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-_To show your posts here, enable  
-<a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a> in <code>.github/workflows</code>._
+_Quer mostrar seus posts aqui? Dá uma olhada no  
+<a href="https://github.com/gautamkrishnar/blog-post-workflow">blog-post-workflow</a> e ativa no seu <code>.github/workflows</code>!_
 </details>
 
 ---
 
-### 🤝 Let’s connect
+### 🤝 Bora trocar uma ideia?
 <p align="center">
   <a href="mailto:lucas@example.com"><img alt="E‑mail" src="https://img.shields.io/badge/E‑mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/lucas-marinho-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p align="center">“Code is a story—make yours worth reading.”</p>
+<p align="center">“Código também conta histórias — escreva a sua com estilo.”</p>
