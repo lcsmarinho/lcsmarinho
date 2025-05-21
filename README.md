@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I’m Lucas Marinho</h1>
-<h3 align="center">Front‑End & Flutter tinkerer • React | TypeScript | Dart</h3>
+<h3 align="center">Full‑Stack Developer • Java | Flutter | React</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=450&lines=Crafting+elegant+UIs;Building+RPG+tools;Loving+jazz+solos" alt="typing intro" />
@@ -7,15 +7,17 @@
 
 <p align="center">
   <!-- Tech stack badges -->
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Dart / Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-> Self‑taught dev from Aracaju‑SE who turns code into experience—<br>
-> from RPG widgets to corporate dashboards.
+> Full-stack dev from Aracaju‑SE who turns code into experience—<br>
+> from RPG tools to real-world applications in Java, Flutter & React.
 
 ---
 
