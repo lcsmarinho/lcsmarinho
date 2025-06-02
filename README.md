@@ -25,7 +25,7 @@
 
 | Project | Stack | What it is |
 |---------|-------|------------|
-| [**Kandu**](https://github.com/lcsmarinho/Kandu) | Service Order Manager and Planning with Kanban. |
+| [**Kandu**](https://github.com/lcsmarinho/Kandu) | Java + Spring| Service Order Manager and Planning with Kanban. |
 | [**Zelda Like Game**](https://github.com/lcsmarinho/Zelda-Like-Game) | Java + Swing | A Zelda Like Game with a simple interface. |
 | [**Ecos do Mestre**](https://github.com/lcsmarinho/ecos_do_mestre) | Flutter | Lovecraft‑flavored mobile/web app for RPG masters. |
 | [**Fichas Organizer**](https://github.com/lcsmarinho/fichas_organizer_generator_app) | Python | CLI/GUI generator that builds D&D sheets from JSON. |
