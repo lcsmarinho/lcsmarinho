@@ -25,7 +25,7 @@
 
 | Project | Stack | What it is |
 |---------|-------|------------|
-| [**Noir Gallery**](https://github.com/lcsmarinho/noir-gallery) | React + TS | A front‑end “art gallery” of CSS/JS effects with search & pagination. |
+| [**Zelda Like Game**](https://github.com/lcsmarinho/Zelda-Like-Game) | Java + Swing | A Zelda Like Game with a simple interface. |
 | [**Ecos do Mestre**](https://github.com/lcsmarinho/ecos_do_mestre) | Flutter | Lovecraft‑flavored mobile/web app for RPG masters. |
 | [**Fichas Organizer**](https://github.com/lcsmarinho/fichas_organizer_generator_app) | Python | CLI/GUI generator that builds D&D sheets from JSON. |
 | [**Site‑med**](https://github.com/lcsmarinho/Site-med) | HTML/CSS/JS | Responsive site for a nephrologist with calculator & FAQ. |
