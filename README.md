@@ -25,11 +25,11 @@
 
 | Project | Stack | What it is |
 |---------|-------|------------|
+| [**Kandu**](https://github.com/lcsmarinho/Kandu) | Service Order Manager and Planning with Kanban. |
 | [**Zelda Like Game**](https://github.com/lcsmarinho/Zelda-Like-Game) | Java + Swing | A Zelda Like Game with a simple interface. |
 | [**Ecos do Mestre**](https://github.com/lcsmarinho/ecos_do_mestre) | Flutter | Lovecraft‑flavored mobile/web app for RPG masters. |
 | [**Fichas Organizer**](https://github.com/lcsmarinho/fichas_organizer_generator_app) | Python | CLI/GUI generator that builds D&D sheets from JSON. |
 | [**Site‑med**](https://github.com/lcsmarinho/Site-med) | HTML/CSS/JS | Responsive site for a nephrologist with calculator & FAQ. |
-| [**Calculadora Moderna**](https://github.com/lcsmarinho/Calculadora-Moderna) | Python (Tkinter) | Modern desktop calculator with theme toggle. |
 | [**Dashboard COVID‑19 (Dash)**](https://github.com/lcsmarinho/Dashboard-COVID-19-com-Dash) | Python (Plotly Dash) | Interactive data‑viz dashboard for Brazilian cases. |
 
 ---
